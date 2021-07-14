@@ -3,7 +3,7 @@
 This is the template I used for my OSCP exam.
 I modified the original version of Offensive security which you can find here:
 
--[Original template was created by Offensive Security] (https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc)
+-[Original template was created by Offensive Security](https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc)
 
 I created a different structure under each host:
 - Service Enumeration
