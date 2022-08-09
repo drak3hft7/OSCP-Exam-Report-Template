@@ -17,4 +17,4 @@ I created a different structure under each host:
 
 In the final part, I have inserted a table where to insert all the local.txt and proof.txt taken.
 
-![Title](/report.png 'Text')
+![Title](main/report.png 'Text')
