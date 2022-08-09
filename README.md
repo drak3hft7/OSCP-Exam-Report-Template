@@ -16,3 +16,5 @@ I created a different structure under each host:
 - Proof of Concept Code
 
 In the final part, I have inserted a table where to insert all the local.txt and proof.txt taken.
+
+![Title](report.png 'Text')
